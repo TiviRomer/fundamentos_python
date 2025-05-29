@@ -1,5 +1,5 @@
 '''
-Clase:        Clase 3
+Clase:        Clase 5
 Tema:         Bloque condicional
 Ejercicio:    5.4.2. Sumador de valores posicionales
 Descripción:  Pide un número al usuario y suma sus dígitos hasta que quede un solo dígito.

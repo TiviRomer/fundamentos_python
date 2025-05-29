@@ -1,5 +1,5 @@
 '''
-Clase:        Clase 3
+Clase:        Clase 5
 Tema:         Bloque condicional
 Ejercicio:    5.4.1. ¡Adivina el número!
 Descripción:  Genera un número aleatorio entre 1 y 100 y pide al usuario que lo adivine.
