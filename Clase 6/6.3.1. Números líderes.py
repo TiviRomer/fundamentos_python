@@ -22,11 +22,8 @@ def encuentra_lideres(lista):
             max_derecha = num
     return lideres[::-1]
 
-
 lista = list(map(int, input().split()))
 
-
 lideres = encuentra_lideres(lista)
-
 
 print(*lideres)
